@@ -1,6 +1,8 @@
 # Choi Jeong Gon 🤗
 
 ![ChoiJeongGon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJeongGon&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJeongGon&layout=compact)](https://github.com/ChoiJeongGon/github-readme-stats)
+
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
