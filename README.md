@@ -1,1 +1,1 @@
-# Choi-JeongGon 🤗
+# Choi Jeong Gon 🤗
