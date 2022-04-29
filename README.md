@@ -22,3 +22,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinbaji@gmail.com)](mailto:shinbaji@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:shinbaji@naver.com)](mailto:shinbaji@naver.com)
+
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shinbaji@gmail.com" target="white">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
