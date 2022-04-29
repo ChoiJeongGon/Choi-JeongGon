@@ -25,3 +25,6 @@
 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shinbaji@gmail.com" target="white">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.naver.com/mail/?view=cm&amp;fs=1&amp;to=shinbaji@naver.com" target="white">
+<img src="https://img.shields.io/badge/naver-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
